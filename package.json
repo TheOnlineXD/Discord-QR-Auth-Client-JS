@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "qrcode": "^1.4.4",
+    "safe-base64": "^2.0.1-0",
+    "websocket": "^1.0.33"
+  }
+}
