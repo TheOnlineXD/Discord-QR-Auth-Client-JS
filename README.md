@@ -3,6 +3,8 @@ A Discord Bot to communicate with Discord's QR Code login auth server
 to easily retrieve useful information about your account
 (including token.)
 
+## Thanks to github.com/DismissedGuy for original python source code
+
 ## How to use
 Prerequisites:
 * Have Node.JS 12+ installed
