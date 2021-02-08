@@ -21,4 +21,4 @@ Optional:
 3. Use command "$gettoken" with the bot
 3. A QR code wil pop up. Scan it using your phone
 (either using discord or a generic QR code scanner)
-4. Bot will send a DM message to account that scanned the QR Code.
+4. Bot will send a DM to account that scanned the QR Code.
