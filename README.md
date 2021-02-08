@@ -5,6 +5,8 @@ to easily retrieve useful information about your account
 
 ## Thanks to github.com/DismissedGuy for original python source code
 
+## And Thanks to github.com/MrAugu for starter commands
+
 ## How to use
 Prerequisites:
 * Have Node.JS 12+ installed
