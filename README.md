@@ -9,7 +9,6 @@ Prerequisites:
 * A Discord client that can scan QR codes (your phone)
 
 Optional:
-* Uncomment `numpy` and `wsaccel` in requirements.txt for slightly better performance (you really don't need to do this)
 * Enable debug mode by modifying `debug=False` in server.py
 
 ### Steps
