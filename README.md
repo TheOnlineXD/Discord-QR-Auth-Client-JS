@@ -9,7 +9,7 @@ Prerequisites:
 * A Discord client that can scan QR codes (your phone)
 
 Optional:
-* Enable debug mode by modifying `debug=False` in server.py
+* Enable debug mode by modifying `debug=false` in index.js
 
 ### Steps
 1. `npm i`
