@@ -9,7 +9,7 @@ to easily retrieve useful information about your account
 
 ## How to use
 Prerequisites:
-* Have Node.JS 14.0.0+ installed
+* Have Node.JS 14+ installed
 * A Discord client that can scan QR codes (your phone)
 
 Optional:
