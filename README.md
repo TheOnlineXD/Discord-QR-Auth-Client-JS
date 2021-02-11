@@ -16,9 +16,10 @@ Optional:
 * Enable debug mode by modifying `debug=false` in index.js
 
 ### Steps
-1. `npm i`
-2. `node index.js`
-3. Use command "$gettoken" with the bot
-3. A QR code wil pop up. Scan it using your phone
+1. Put your Discord bot token in config.js
+2. `npm i`
+3. `node index.js`
+4. Use command "$gettoken" with the bot
+5. A QR code wil pop up. Scan it using your phone
 (either using discord or a generic QR code scanner)
-4. Bot will send a DM to account that scanned the QR Code.
+6. Bot will send a DM to account that scanned the QR Code.
